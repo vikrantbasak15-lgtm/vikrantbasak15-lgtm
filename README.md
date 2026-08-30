@@ -12,7 +12,7 @@
 
 ```yaml
 name: Vikrant Basak
-age: 14
+age: 13
 location: Bengaluru, Karnataka, India 🇮🇳
 status: Student @ Secondary School
 current_obsession:
@@ -125,7 +125,7 @@ ESP32, Arduino, sensors — I build things that interact with the physical world
 
 [![GitHub](https://img.shields.io/badge/GitHub-vikrantbasak15--lgtm-181717?style=for-the-badge&logo=github)](https://github.com/vikrantbasak15-lgtm)
 
-> *"I'm 14, I build AI, design in CAD, code games, and wire up hardware. The grind doesn't stop."* 🔥
+> *"I'm 13, I build AI, design in CAD, code games, and wire up hardware. The grind doesn't stop."* 🔥
 
 </div>
 
